@@ -1,0 +1,18 @@
+ja:
+  helpers:
+    submit:
+      bundle:
+        create: "マイバンドルの作成"
+        update: "私のバンドルを更新"
+      purchase:
+        update: "チャージカード"
+      bundle_purchase:
+        update: "チャージカード"
+  simple_form:
+    "yes": 'はい'
+    "no": 'いいえ'
+    required:
+      text: '必須'
+      mark: '*'
+    error_notification:
+      default_message: "いくつかのエラーが検出された、見てみてください："

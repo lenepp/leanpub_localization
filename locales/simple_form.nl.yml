@@ -1,0 +1,18 @@
+nl:
+  helpers:
+    submit:
+      bundle:
+        create: Maak Mijn Bundel
+        update: Bij te werken Mijn Bundel
+      purchase:
+        update: Betaal met kaart
+      bundle_purchase:
+        update: Betaal met kaart
+  simple_form:
+    "yes": 'Ja'
+    "no": 'Nee'
+    required:
+      text: 'nodig'
+      mark: '*'
+    error_notification:
+      default_message: "Sommige fouten zijn gevonden, kunt u een kijkje nemen:"
