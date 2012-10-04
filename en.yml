@@ -330,7 +330,7 @@ en:
   w_book_lower_case: "book"
   w_book_name: "Book Name"
   w_book_no_longer_published: "Your book is no longer published, but this is the last version which was published."
-  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{count} other %{langs}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} other %{langs}."
   w_book_price: "Book Price"
   w_book_published_message: "Your book was successfully published. You can download the new version using the links below."
   w_book_royalty: "Book Royalty"

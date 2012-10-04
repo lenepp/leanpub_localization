@@ -330,7 +330,7 @@ hu:
   w_book_lower_case: "könyv"
   w_book_name: "Book Name"
   w_book_no_longer_published: "A könyv már nem tették közzé, de ez az utolsó verziót tettek közzé."
-  w_book_num_translations_html: "<em>%{orig_book}</em> már lefordították %{count} más %{langs}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> már lefordították %{num_translations} más %{langs}."
   w_book_price: "Book Price"
   w_book_published_message: "A könyv sikeresen megjelent. töltheti le az új verziót az alábbi linkek segítségével."
   w_book_royalty: "Book Royalty"

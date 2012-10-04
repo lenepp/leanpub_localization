@@ -330,7 +330,7 @@ ro:
   w_book_lower_case: "Cartea"
   w_book_name: "Nume carte"
   w_book_no_longer_published: "Cartea ta nu mai este publicat, dar aceasta este ultima versiune care a fost publicat."
-  w_book_num_translations_html: "<em>%{orig_book}</em> a fost tradus în alte %{langs} %{count}."
+  w_book_num_translations_html: "<em>%{orig_book}</em> a fost tradus în alte %{langs} %{num_translations}."
   w_book_price: "Preț carte"
   w_book_published_message: "Cartea dvs. a fost publicat cu succes Puteți descărca noua versiune folosind link-urile de mai jos."
   w_book_royalty: "Royalty Rezervă"
