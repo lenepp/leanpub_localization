@@ -275,8 +275,8 @@ it:
   w_are_you_sure_delete_book: "Sei sicuro di voler eliminare questo libro?"
   w_are_you_sure_delete_book_authors: "Sei sicuro di voler eliminare questo libro e dei suoi utenti autore?"
   w_author_earns:
-    uno: "Autore guadagna"
-    altro: "Autori guadagnare"
+    one: "Autore guadagna"
+    other: "Autori guadagnare"
   w_author_faq: "Autore FAQ"
   w_author_fix1: "Voglio solo condividere un po 'di correzione che ho fatto per la sintassi Markdown in modo da farlo funzionare con il codice codice che questo bellissimo servizio è necessario quando si vuole inserire un frammento di codice nei tuoi libri."
   w_author_fix2: "Basta creare un file nel vostro markdown.vim .vim / dopo / sintassi dir e aggiungere le seguenti righe:"
@@ -562,8 +562,8 @@ it:
   w_erotica_category_rules_li3: "La categoria Erotica sarà tenuto dietro una forma di verifica di età, al fine di impedire l'accesso involontario da parte dei minori."
   w_erotica_category_rules_title: "Regole particolari per libri nella Categoria Erotica"
   w_error:
-    uno: "Errore"
-    altri: "Errori"
+    one: "Errore"
+    other: "Errori"
   w_error_adding_book_to_bundle: "Si è verificato un errore durante l'aggiunta del libro di raggruppare."
   w_errors_prevented_save_changes: "%{errors} impedito le modifiche vengano salvate:"
   w_every_kindle_email_html: "Ogni Kindle ha un indirizzo e-mail è possibile trovare la vostra andando al vostro %{personal_settings} su Amazon Sarà qualcosa come \" your.name @ kindle.com your.name \"parte a Inserisci la \"l'ingresso sopra."
@@ -714,8 +714,8 @@ it:
   w_lang_rus: "russo"
   w_lang_slv: "sloveno"
   w_language:
-    uno: "linguaggio"
-    altri: "lingue"
+    one: "linguaggio"
+    other: "lingue"
   w_language_options: "Lingua opzioni"
   w_language_options_body: "Questo libro è stato tradotto (o è in corso di traduzione) nelle seguenti lingue:"
   w_last_name: "Cognome"

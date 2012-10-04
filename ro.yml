@@ -714,8 +714,8 @@ ro:
   w_lang_rus: "Rusă"
   w_lang_slv: "sloven"
   w_language:
-    unul: "limbă"
-    alte limbi: ""
+    one: "limbă"
+    other: "limbă"
   w_language_options: "Limbă opțiuni"
   w_language_options_body: "Această carte a fost tradus (sau este în curs de traducere) în următoarele limbi:"
   w_last_name: "Prenume"

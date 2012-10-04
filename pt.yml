@@ -561,8 +561,8 @@ pt:
   w_erotica_category_rules_li3: "A categoria Erotica será mantido por trás de uma forma de verificação de idade, de modo a impedir o acesso inadvertido por menores."
   w_erotica_category_rules_title: "Regras especiais para a categoria Livros em Erotica"
   w_error:
-    um: "Erro"
-    outros: "Erros"
+    one: "Erro"
+    other: "Erros"
   w_error_adding_book_to_bundle: "Houve um erro ao adicionar o livro para agregar"
   w_errors_prevented_save_changes: "%{errors} impediu as alterações sejam salvas:"
   w_every_kindle_email_html: "Cada Kindle tem um endereço de e-mail Você pode encontrar seu indo para o seu %{personal_settings} na Amazon Será algo como \" your.name @ kindle.com your.name parte\" no \\Enter\" a entrada acima."
@@ -713,8 +713,8 @@ pt:
   w_lang_rus: "russo"
   w_lang_slv: "esloveno"
   w_language:
-    um: "linguagem"
-    outros: "línguas"
+    one: "linguagem"
+    other: "línguas"
   w_language_options: "Opções de idioma"
   w_language_options_body: "Este livro foi traduzido (ou está sendo traduzido) para os seguintes idiomas:"
   w_last_name: "Apelido"
