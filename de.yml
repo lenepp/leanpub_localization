@@ -6,7 +6,7 @@
 ###
 de:
   b_accepted: "Akzeptiert"
-  b_pending: "Schwebend"
+  b_pending: "Ausstehend"
   b_published: "Veröffentlicht"
   b_rejected: "Abgelehnt"
   b_retired: "Ruhestand"
