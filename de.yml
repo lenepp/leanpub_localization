@@ -109,6 +109,7 @@ de:
   e_there_was_an_error_html: "Es gab einen Fehler beim Import von %{book}."
   e_this_not_the_markdown: "Dies ist nicht der Markdown-Text, den du erstellt hast, sondern LaTeX, welches zur PDF-Generierung benutzt wird. Es ist nicht nötig, dass du dies verstehst, aber hoffentlich hilft es dabei, das Problem zu identifizieren."
   e_this_version_published: "Diese Version wurde veröffentlicht und die Leser sollten sie nun herunterladen können."
+  e_we_can_email_your_kindle: "Wir können auch per E-Mail diese Version auf Ihren Kindle bei %{kindle}. Dazu melden Sie sich an und klicken Sie auf die Taste auf dem Armaturenbrett."
   e_we_emailed_readers: "Wir haben den Lesern eine E-Mail gesendet, um die neue Version anzukündigen."
   e_we_have_emailed: "Wir haben diese Version auf deinen Kindle per E-Mail an %{kindle} gesendet."
   e_we_have_finished: "Die Konvertierung der Dateien ist abgeschlossen."
