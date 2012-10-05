@@ -109,6 +109,7 @@ de:
   e_there_was_an_error_html: "Es gab einen Fehler, während wir %{book} in Leanpub importieren versucht."
   e_this_not_the_markdown: "Dies ist nicht das Markdown Sie getippt, aber so etwas wie LaTeX, dass wir die PDF generieren Sie brauchen nicht zu verstehen, was los ist, aber hoffentlich wird der Text können Sie herausfinden, wo in Ihrem Dokument das Problem. ist."
   e_this_version_published: "Diese Version wurde veröffentlicht, und Ihre Leser in der Lage sein, um es herunterzuladen."
+  e_we_can_email_your_kindle: "We can also email this version to your Kindle at %{kindle}. To do this, sign in and click the button on your dashboard."
   e_we_emailed_readers: "Wir gemailt Ihre Leser auf diese neue Version zu verkünden."
   e_we_have_emailed: "Wir haben diese Version auf Ihren Kindle per E-Mail an %{kindle}."
   e_we_have_finished: "Wir haben fertig Umwandeln Ihrer Dateien für Sie."

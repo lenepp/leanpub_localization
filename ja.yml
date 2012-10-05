@@ -109,6 +109,7 @@ ja:
   e_there_was_an_error_html: "我々はLeanpubに%{book}をインポートしようとした際にエラーが発生しました。"
   e_this_not_the_markdown: "これはあなたがに入力した記法ではなく、私たちは、PDFを生成するために使用する乳液と呼ばれるものには何が起こっているのかを理解する必要はありませんが、うまくいけばテキストはどこにあなたの文書に記載されている問題を把握できるようになる。です。 "
   e_this_version_published: "このバージョンは公開されている、とあなたの読者はそれをダウンロードすることができます。"
+  e_we_can_email_your_kindle: "We can also email this version to your Kindle at %{kindle}. To do this, sign in and click the button on your dashboard."
   e_we_emailed_readers: "我々はこの新しいバージョンを発表することを読者にメールを送った。"
   e_we_have_emailed: "我々は%{kindle}であなたのKindleにこのバージョンを電子メールで送信しました。"
   e_we_have_finished: "我々はあなたのためにファイルの変換が終了しました。"

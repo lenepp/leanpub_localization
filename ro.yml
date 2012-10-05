@@ -109,6 +109,7 @@ ro:
   e_there_was_an_error_html: "A fost o eroare în timp ce am încercat să importe %{book} în Leanpub."
   e_this_not_the_markdown: "Aceasta nu este Markdown ați tastat, dar ceva numit LaTeX pe care le folosim pentru a genera PDF Nu aveți nevoie pentru a înțelege ce se întâmplă, dar să sperăm că textul va permite să îți dai seama unde în document problema. este."
   e_this_version_published: "Această versiune a fost publicată, iar cititorii vor putea sa-l descarcati."
+  e_we_can_email_your_kindle: "We can also email this version to your Kindle at %{kindle}. To do this, sign in and click the button on your dashboard."
   e_we_emailed_readers: "Ne e-mail cititorii dvs. pentru a anunța această nouă versiune."
   e_we_have_emailed: "Am trimis această versiune a Kindle la %{kindle}."
   e_we_have_finished: "Am terminat convertirea fisierelor tale pentru tine."
