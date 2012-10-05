@@ -53,7 +53,7 @@ de:
   e_download_latest_version_html: "Die neueste Version deines Buches kann unter %{download_link} geladen werden. Sie befindet sich ebenfalls im %{dir} Ordner in der Dropbox."
   e_dropbox_instructions: "Dropbox mit weiteren Anweisungen in den nächsten paar Minuten."
   e_edit_email_preferences: "E-Mail-Einstellungen bearbeiten"
-  e_email_opt_out: "Wenn du diese Gratulationsnachrichten nicht mehr erhalten möchtest, deaktiviere sie hier: %{turnoff}"
+  e_email_opt_out: "Wenn du diese nachrichten nicht mehr erhalten möchtest, deaktiviere sie hier:"
   e_email_to_kindle: "E-Mail das Buch auf Ihren Kindle"
   e_epub: "EPUB (für iPad und andere ebook Leser):"
   e_epub_title: "EPUB (für iPad, etc.)"

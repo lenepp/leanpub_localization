@@ -53,7 +53,7 @@ ja:
   e_download_latest_version_html: "あなたは%{download_link}であなたLeanpubブックの最新バージョンをダウンロードすることができますそれは%{dir}ディレクトリにあなたのDropboxにもあります。"
   e_dropbox_instructions: "次の数分後にさらに指示をDropboxの。"
   e_edit_email_preferences: "あなたのメールの設定を編集する"
-  e_email_opt_out: "あなたはこれらのお祝いのメールの受信を停止したい場合、あなたがそれらをオフにすることができます。%{turnoff}"
+  e_email_opt_out: "あなたはこれらのメールの受信を停止したい場合は、それらをでオフにすることができます。"
   e_email_to_kindle: "あなたのKindleに本を電子メールで送信"
   e_epub: "EPUB（iPadや他の電子ブックリーダーのために）："
   e_epub_title: "EPUB（アプリなどのための）"

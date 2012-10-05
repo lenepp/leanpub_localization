@@ -53,7 +53,7 @@ hu:
   e_download_latest_version_html: "Tudod letölt a legújabb verziót a Leanpub könyvet %{download_link}. is a Dropbox a %{dir} könyvtár."
   e_dropbox_instructions: "Dropbox további utasításokat a következő néhány perc."
   e_edit_email_preferences: "szerkeszteni az e-mail beállítások"
-  e_email_opt_out: "Ha szeretné kapni ezeket a gratuláló e-maileket, akkor kapcsolja ki őket a következő weboldalon: %{turnoff}"
+  e_email_opt_out: "Ha szeretné kapni ezeket a leveleket, akkor kapcsolja ki azokat a következő weboldalon:"
   e_email_to_kindle: "feladni a könyv a Kindle"
   e_epub: "EPUB (az iPad és a többi ebook olvasó):"
   e_epub_title: "EPUB (iPad, stb.)"

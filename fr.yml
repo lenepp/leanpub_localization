@@ -53,7 +53,7 @@ fr:
   e_download_latest_version_html: "Vous pouvez télécharger la dernière version de votre livre Leanpub à %{download_link} Il est également dans votre Dropbox dans le répertoire %{dir}."
   e_dropbox_instructions: "La sélection des instructions supplémentaires dans les prochaines minutes."
   e_edit_email_preferences: "modifier vos préférences e-mail"
-  e_email_opt_out: "Si vous souhaitez ne plus recevoir ces e-mails de félicitations, vous pouvez les désactiver à: %{turnoff}"
+  e_email_opt_out: "Si vous souhaitez ne plus recevoir ces e-mails, vous pouvez les désactiver à:"
   e_email_to_kindle: "envoyer le livre à votre Kindle"
   e_epub: "EPUB (pour iPad et autres lecteurs ebook):"
   e_epub_title: "EPUB (pour iPad, etc)"

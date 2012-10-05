@@ -53,7 +53,7 @@ nl:
   e_download_latest_version_html: "Je kunt de laatste versie van uw Leanpub boek op %{download_link} Het is ook in uw Dropbox in de %{dir} directory."
   e_dropbox_instructions: "Dropbox met verdere instructies in de volgende paar minuten."
   e_edit_email_preferences: "bewerken van uw e-mail voorkeuren"
-  e_email_opt_out: "Als je wilt stoppen met het ontvangen van deze felicitatie e-mails, kunt u deze uit bij: %{turnoff}"
+  e_email_opt_out: "Als u wilt stoppen met het ontvangen van deze e-mails, kunt u deze uitschakelen op:"
   e_email_to_kindle: "e-mail het boek naar uw Kindle"
   e_epub: "EPUB (voor iPad en andere ebook readers):"
   e_epub_title: "EPUB (voor iPad, etc)"
