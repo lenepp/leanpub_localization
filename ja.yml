@@ -1066,7 +1066,7 @@ ja:
   w_suggested_price: "希望販売価格"
   w_suggested_price_hint: "これは、あなたの本が販売されることを示唆価格ですそれは少なくとも0.99ドルでなければならず、それは少なくとも最低価格である必要があります。"
   w_suggested_price_label: "本の小売価格"
-  w_takedown: "著作権ポリシーを降ろす"
+  w_takedown: "著作物削除ポリシー"
   w_team: "チーム"
   w_team_message: "これらは、進行中の電子ブックを書き、自己発行する世界でLeanpub最善の道を作っている人がいる！"
   w_technical: "テクニカル"
