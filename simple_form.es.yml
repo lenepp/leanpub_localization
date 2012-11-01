@@ -1,18 +1,18 @@
-en:
+es:
   helpers:
     submit:
       bundle:
-        create: Create My Bundle
-        update: Update My Bundle
+        create: Crear mi Bundle
+        update: Actualizar mi Bundle
       purchase:
-        update: Charge Card
+        update: Tarjeta de Crédito
       bundle_purchase:
-        update: Charge Card
+        update: Tarjeta de Crédito
   simple_form:
-    "yes": 'Yes'
+    "yes": 'Sí'
     "no": 'No'
     required:
-      text: 'required'
+      text: 'necesario'
       mark: '*'
     error_notification:
-      default_message: "Some errors were found, please take a look:"
+      default_message: "Algunos se han encontrado errores, por favor, eche un vistazo:"

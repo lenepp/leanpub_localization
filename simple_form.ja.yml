@@ -15,4 +15,4 @@ ja:
       text: '必須'
       mark: '*'
     error_notification:
-      default_message: "いくつかエラーが検出されました。確認してください："
+      default_message: "いくつかのエラーが検出されました。確認してください："
