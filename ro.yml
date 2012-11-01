@@ -11,6 +11,7 @@ ro:
   w_and_min_price: "și prețul minim este de"
   w_author_earns:
     one: "Autorul câștigă"
+    few: "Autori câștiga"
     other: "Autori câștiga"
   w_author_letting_bundle: "Autorul este permițându-vă să setați prețul pe care îl veți plăti pentru acest pachet preț recomandat este!"
   w_author_letting_you_set_price_html: "Autorul îți dă voie să setezi tu prețul pe care vrei să-l plătești pentru carte! Prețul sugerat este <strong>%{suggested}</strong> iar prețul minim este %{minimum}."
@@ -589,6 +590,7 @@ ro:
   w_erotica_category_rules_title: "Reguli speciale pentru Cărți în categoria Erotica"
   w_error:
     one: "Eroare"
+    few: "Erori de"
     other: "Erori de"
   w_error_adding_book_to_bundle: "Nu a fost o eroare la adăugarea cartea la pachet."
   w_errors_prevented_save_changes: "%{errors} împiedicat modificările dvs. de a fi mântuit:"
@@ -735,6 +737,7 @@ ro:
   w_lang_slv: "sloven"
   w_language:
     one: "limbă"
+    few: "limbă"
     other: "limbă"
   w_language_options: "Limbă opțiuni"
   w_language_options_body: "Această carte a fost tradus (sau este în curs de traducere) în următoarele limbi:"
