@@ -2,17 +2,17 @@ es:
   helpers:
     submit:
       bundle:
-        create: Crear mi Bundle
-        update: Actualizar mi Bundle
+        create: Crear mi paquete
+        update: Actualizar mi paquete
       purchase:
-        update: Tarjeta de Crédito
+        update: Tarjeta de crédito
       bundle_purchase:
-        update: Tarjeta de Crédito
+        update: Tarjeta de crédito
   simple_form:
     "yes": 'Sí'
     "no": 'No'
     required:
-      text: 'necesario'
+      text: 'obligatorio'
       mark: '*'
     error_notification:
-      default_message: "Algunos se han encontrado errores, por favor, eche un vistazo:"
+      default_message: "Se han encontrado algunos errores, por favor, revíselos:"

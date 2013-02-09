@@ -2,8 +2,8 @@ de:
   helpers:
     submit:
       bundle:
-        create: Erstellen My Bundle
-        update: Aktualisieren Sie Ihr Bundle
+        create: Paket erstellen
+        update: Paket aktualisieren
       purchase:
         update: Bezahlen
       bundle_purchase:
@@ -15,4 +15,4 @@ de:
       text: 'erforderlich'
       mark: '*'
     error_notification:
-      default_message: "Einige Fehler gefunden, bitte werfen Sie einen Blick:"
+      default_message: "Einige Fehler wurden gefunden, bitte werfen Sie einen Blick hierauf:"
