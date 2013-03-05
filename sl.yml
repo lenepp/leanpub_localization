@@ -1,4 +1,4 @@
-###
+	###
 # Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
 #
 # Slovenian
@@ -24,6 +24,8 @@ sl:
 ############################################
 # With plurals above, without plurals below.
 ############################################
+  p_book_for_sale_at: "Ta knjiga je naprodaj \url{http://leanpub.com/%{slug}}"
+  p_published_on: "Ta izdaja je bila objavljena na %{published_on}"
   w_about_author: "O avtorju"
   w_about_authors: "O avtorjih"
   w_about_book: "O knjigi"
@@ -43,7 +45,13 @@ sl:
   w_book_language: "Jezik:"
   w_book_num_translations_html: "je bila prevedena v <em>%{orig_book}</em> %{count} drugi %{langs}."
   w_books_included: "Knjige vključeno"
+  w_bundle_about_books: "O knjigah"
+  w_bundle_about_bundle: "O Bundle"
+  w_bundle_buy_now: "Kupi sveženj zdaj!"
   w_bundle_description: "O Bundle"
+  w_bundle_separate_price_html: "Naprodaj posebej, te knjige so najnižjo ceno% <strong>%{minimum}</strong> in predlagano ceno% <strong>%{suggested}</strong>..."
+  w_bundle_share: "Skupna raba tega svežnja:"
+  w_bundle_suggested_price_html: "predlaga sveženj cena <strong>%{suggested}</strong> in minimalni paket cena je ..."
   w_bundles_available: "Svežnji na voljo"
   w_bundles_included: "Ta knjiga je prav tako na voljo v naslednjih paketih:"
   w_buy_as_a_gift: "Kupite kot darilo!"
@@ -62,6 +70,7 @@ sl:
   w_copy_embed: "Kopiraj HTML kodo"
   w_coupon_code: "Koda kupona"
   w_credit_card_help: "Leanpub sprejema Visa in MasterCard samo ne shranjujemo vaše podatke o kreditni kartici na naših strežnikih Namesto tega smo poslali ta obrazec, varno prek SSL na naši plačilni procesor, ki je tako varen, kot PayPal..."
+  w_debit_card_fee: "Če uporabljate Visa ali MasterCard debetne kartice, lahko obstaja majhno pristojbino (običajno okoli 10 centov), ki se obračuna po naši plačilni procesor to zato, ker smo kanadski trgovec, in večina Visa ali MasterCard debetne kartice transakcije smo. videli so iz ZDA."
   w_download_sample: "Prenesite vzorčne PDF"
   w_drag_slider_html_click: "Povlecite drsnik ali kliknite cene vnašati v svoje (do 500 $)"
   w_drag_slider_html_tap: "Povlecite drsnik, ali tapnite cene vnašati v svoje (do 500 $)"
@@ -80,13 +89,15 @@ sl:
   w_grand_total: "Končna cena"
   w_happiness_guarantee_book_html: "Če kupite Leanpub knjigo boste dobili <strong>vse posodobitve za knjigo za brezplačno</strong> Vse knjige so na voljo v <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) in <strong>MOBI</strong> (za Kindle). je <strong>ni DRM</strong>. je <strong>ni nevarnosti</strong>, samo <strong>zagotovljena sreča</strong> ali svoj denar nazaj."
   w_happiness_guarantee_bundle_html: "Če kupite Leanpub snop dobiš <strong>vse posodobitve knjig v paketu za brezplačno</strong> Vse knjige so na voljo v <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) in <strong>MOBI</strong> (za Kindle). je <strong>brez DRM</strong>. je <strong>ni nevarnosti</strong>, samo <strong>zagotovljena sreča</strong> ali svoj denar nazaj."
-  w_happiness_guarantee_days_html: "V <strong>lahko 45 dni po nakupu</strong> boste dobili <strong>100% vračilo</strong> Leanpub vsakem nakupu."
+  w_happiness_guarantee_days_html: "V <strong>lahko 45 dni po nakupu</strong> boste dobili <strong>100% vračilo</strong> Leanpub vsakem nakupu, v <strong>dva klika</strong>. smo obdelali nadomestil ročno, tako da bi trajalo nekaj dni, da se pokažejo. Oglejte si <a href=\"/terms#returns\">vse izraze</a>."
   w_happiness_guarantee_title: "Leanpub brezpogojno, brez tveganja 100% garancija Sreča"
   w_if_no_visa_mastercard: "Če je vaša kreditna kartica ni Visa ali Mastercard, lahko še vedno kupite to knjigo z PayPal. Samo kliknite na rumeno zgornji gumb."
+  w_installment_count: "Ta knjiga se piše kot serijski fikcija %{installments_completed} od %{installments_planned} obrokih so na voljo."
   w_interested_in_book: "Zanima me v tej knjigi Spodbujanje avtorja z vnosom svoje ime, elektronski naslov in koliko boš verjetno plačali za ebook, ko je objavljena?"
   w_interested_short: "Zanima me v tej knjigi Pokažite svojo podporo z besedami, kaj bi želeli plačati za to?"
   w_lang_dut: "nizozemski"
   w_lang_eng: "angleško"
+  w_lang_fin: "Finska"
   w_lang_fre: "francoski"
   w_lang_ger: "Nemško"
   w_lang_hun: "Madžarska"
