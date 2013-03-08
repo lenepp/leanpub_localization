@@ -28,12 +28,12 @@ Here's one option:
 Here's another option:
 
 1. Click on the blue language file link at https://github.com/peterarmstrong/leanpub_localization
-2. Click the RAW button.
-3. Select everything in the web page, copy it, and paste it into a .txt file in your text editor.
-4. Edit the file and save the changes.
+2. Click the RAW button
+3. Select everything in the web page, copy it, and paste it into a .txt file in your text editor
+4. Edit the file and save the changes
 5. Send the file to us by email at hello@leanpub.com
 
-If you have any questions please just email us at hello@leanpub.com.
+If you have any questions please just email us at hello@leanpub.com
 
 THANK YOU for improving Leanpub!
 
