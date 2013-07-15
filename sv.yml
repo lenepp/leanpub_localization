@@ -2,9 +2,9 @@
 # Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
 #
 # Swedish
-# 2 letter code = sw. 3 letter code = swe.
+# 2 letter code = sv. 3 letter code = swe.
 ###
-sw:
+sv:
   support:
     array:
       last_word_connector: " och " # Used in to_sentence
@@ -47,6 +47,7 @@ sw:
   w_book_is_translation_html: "Denna bok är en översättning till %{lang} av %{orig_book}, som ursprungligen skrevs på %{written_in}."
   w_book_language: "Språk:"
   w_book_num_translations_html: "<em>%{orig_book}</em> har översatts till %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "This book is published on Leanpub by"
   w_books_included: "Böcker som medföljer"
   w_bundle_about_books: "Om böckerna"
   w_bundle_about_bundle: "Om paketet"
@@ -68,6 +69,7 @@ sw:
   w_by_author: " av %{author_string}" 
   w_cause_gets: "Välgörenhet får"
   w_causes_get: "Välgörenheter får"
+  w_causes_supported: "Causes Supported"
   w_charge_card: "Dra från kort"
   w_comments: "Kommentarer"
   w_copied_embed_code: "En kodsnutt har kopierats till ditt klippbord; klistra in den i din webbsidas HTML så är allt klart!"
@@ -80,9 +82,14 @@ sw:
   w_drag_slider_html_click: "Dra i linjalen, eller klicka på priset för att skriva i ditt eget (upp till $500)"
   w_drag_slider_html_tap: "Dra i linjalen, eller knacka på priset för att skriva i ditt eget (upp till $500)"
   w_email: "Epost"
+  w_embargo: "EMBARGO!"
+  w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
+  w_embargo_message_2: "Please contact the author for more information about when this is."
   w_expiry_date: "Utgångsdatum"
   w_fanfic_always_free: "Fan fiction-böcker är alltid gratis på Leanpub."
   w_fanfic_of: "Denna bok är fan fiction baserad på %{work} av %{author}."
+  w_feedback: "Feedback"
+  w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_first_name: "Förnamn"
   w_free_updates: "Om du köper boken får du alla författarens Leanpub-uppdateringar av den gratis!"
   w_get_it_free: "Få den gratis!"
@@ -101,11 +108,13 @@ sw:
   w_installment_count: "Den hör boken skrivs som en följetong. %{installments_completed} av %{installments_planned} delar finns tillgängliga."
   w_interested_in_book: "Intresserad av den här boken? Uppmuntra författaren genom att fylla i ditt namn, epostadress och hur mycket du vill betala för boken när den publiceras."
   w_interested_short: "Intresserad av den här boken? Visa ditt stöd genom att berätta vad du skulle betala för den!"
+  w_lang_ara: "Arabic"
   w_lang_dut: "Holländska"
   w_lang_eng: "Engelska"
   w_lang_fin: "Finska"
   w_lang_fre: "Franska"
   w_lang_ger: "Tyska"
+  w_lang_hrv: "Croatian"
   w_lang_hun: "Ungerska"
   w_lang_ita: "Italienska"
   w_lang_jpn: "Japanska"
@@ -130,6 +139,7 @@ sw:
   w_number: "Nummer"
   w_or: "eller"
   w_or_click_to: "eller klicka till"
+  w_pages: "Pages:"
   w_pay_by_credit_card: "Betala med kort"
   w_pay_by_credit_card_or_click_to_html: "Betala med kort <small class=\"option\">eller klicka till %{paypal}</small>"
   w_percent_done_html: "Författaren anser denna bok vara ungefär <strong>%{percent_complete}%</strong> klar!"
@@ -138,14 +148,17 @@ sw:
   w_purchase_hint: "Du kan nu köpa Leanpub-böcker som gåvor! Du behöver bara mottagarens epostadress. Mottagaren kommer att kunna ladda ner boken som PDF, EPUB och MOBI utan att registrera sig hos Leanpub, och de kommer också att kunna anmäla sig för gratis uppdateringar. Leanpub-böcker är fina och miljömedvetna gåvor!"
   w_purchase_is_gift: "Detta köp är en gåva"
   w_reader_count: "Denna bok har %{num_readers} läsare!"
+  w_reader_feedback: "Reader Feedback"
   w_recipient_email: "Mottagarens epost"
   w_retired: "Utgått"
+  w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
   w_share_book: "Dela denna bok"
   w_share_email: "Dela epost?"
   w_suggested_price2: "Föreslaget pris"
   w_suggested_price: "Föreslaget pris:"
   w_these_books_included: "Dessa böcker finns i paketet…"
   w_toc: "Innehållsförteckning"
+  w_token_or_password: "Token or Password"
   w_total: "Totalt"
   w_tweet_just_bought_bundle_text: "Jag köpte just paketet %{title}"
   w_tweet_just_bought_text: "Jag köpte just %{title}"
@@ -158,8 +171,10 @@ sw:
   w_uses_leanpub_singular_html: "%{author} använder Leanpub för att självständigt publicera sin bok. Det kan du också!"
   w_verification_value: "CVV/CSC"
   w_verification_value_hint: "CVV, eller Card Verification Value, är 3 eller 4 siffror på baksidan av ditt kreditkort. De kallas också CSC, eller Card Security Code."
+  w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
   w_view_bundle: "Visa paketet"
   w_whats_bundle: "Ett paket är ett antal besläktade Leanpub-böcker, som kan köpas tillsammans till ett rabatterat pris."
+  w_words: "Words:"
   w_you_pay: "Du betalar"
   w_your_account: "Ditt konto"
   w_youre_buying: "Du köper"
@@ -169,7 +184,9 @@ sw:
 #######################
   p_book_for_sale_at: "Denna bok är till salu på \url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Denna bok är till salu på <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Denna version publicerades den %{published_on}"
+  p_title_page: "Title Page"
   p_toc: "Innehållsförtecking"
   p_isbn_for: "ISBN för %{format_type}"
   p_tweet_this_book: "Twittra denna bok!"
